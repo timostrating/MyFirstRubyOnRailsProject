@@ -8,6 +8,7 @@ You will probably not find anything that special here.
 - [x] cange ubuntu vm into a proper development envioment
 - [x] install ruby on rails
 - [ ] make my first ruby on rails program
-- [ ] add node.js
-- [ ] add gulp
-- [ ] add scss
+- [ ] test node.js
+- [ ] test gulp
+- [ ] test scss
+- [ ] solve some programming challenges using ruby
